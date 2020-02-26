@@ -1,17 +1,20 @@
 body{
     margin: 0;
 }
+html{
+    background: linear-gradient(white ,cyan );
+}
 
 .title{
     text-align: center;
-    color: aqua;
-    background-color: red;
-    margin-top: 140px;
-    margin-right: 170px;
-    margin-left: 170px;
+    color: rgb(46, 13, 192);
+    margin-top: 40px;
+    margin-right: 230px;
+    margin-left: 230px;
     font-family: Akronim ;
+    font-size: 200%;
 }
 .BTitle{
-    background-color: cyan;
     font-family: Akronim;
+    font-size: 150%; 
 }
