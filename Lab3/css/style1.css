@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+.title{
+    text-align: center;
+    color: aqua;
+    background-color: red;
+    margin-top: 140px;
+    margin-right: 170px;
+    margin-left: 170px;
+    font-family: Akronim ;
+}
+.BTitle{
+    background-color: cyan;
+    font-family: Akronim;
+}
